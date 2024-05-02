@@ -1,0 +1,2 @@
+1. It holds num1 and num2 as strings instead of integers, so it concates the strings instead of adding their numerical values. 
+2. I would change them to intgers before adding them together. I can do this with the Number() function.
